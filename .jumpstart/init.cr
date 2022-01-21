@@ -103,6 +103,7 @@ class Jumpstart::Init
       "docker-compose.yml",
       "render.yaml",
       "shard.yml",
+      "fly.toml",
     ]
 
     file_paths.each do |file_path|
